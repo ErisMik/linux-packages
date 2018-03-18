@@ -1,1 +1,3 @@
-aur_pkgs
+# Linux Packages
+
+python-osmapi - AUR
