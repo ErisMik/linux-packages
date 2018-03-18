@@ -1,0 +1,3 @@
+[submodule "python-osmapi"]
+	path = python-osmapi
+	url = ssh://aur@aur.archlinux.org/python-osmapi.git
